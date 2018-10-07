@@ -1,0 +1,12 @@
+%carregar arquivo
+%ler grupo, identificação, data da avaliação, data de nascimento, dias de avaliações, avaliações feitas (sem e com rastreio), ler condições
+%repetir para todos os sujeitos
+%separar grupos
+%ler dados da primeira condição
+%analisar e calcular área, velocidade em x e y, deslocamento total em x e y, root mean square em x e y
+%repetir para todas as condições
+%repetir para dias de avaliação
+%colocar os dados em planilha excel
+%calcular média e desvio padrão para cada variável, paracada grupo
+%análise estatística entre grupos (normalidade, teste de comparação de médias)
+%gráficos
