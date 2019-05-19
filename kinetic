@@ -3,10 +3,14 @@
 %repetir para todos os sujeitos
 %separar grupos
 %ler dados da primeira condição
-%analisar e calcular área, velocidade em x e y, deslocamento total em x e y, root mean square em x e y
+%analisar e calcular o COP e suas variáveis, área, velocidade em x e y, deslocamento total em x e y, root mean square em x e y, elipse, covariância em x e y, angulação da elipse, posição da elipse na base, carga anterior, posterior, direita e esquerda
 %repetir para todas as condições
 %repetir para dias de avaliação
-%colocar os dados em planilha excel
-%calcular média e desvio padrão para cada variável, paracada grupo
-%análise estatística entre grupos (normalidade, teste de comparação de médias)
-%gráficos
+%colocar os dados em planilha excel, nomear cada tentativa e cada dia
+%calcular média e desvio padrão para cada variável, para cada grupo
+%análise estatística entre grupos (normalidade, teste de comparação de médias) (anova, fatores e condições)
+%gráficos (estatokinesiograma e estabilograma para cada condição, cada dia) (comparações de média) (posição do centro de pressão)
+%calcular cog (pêndulo invertido) e suas variáveis, área, deslocamento em x e y, velocidade em x e y, root Mena é quase em x e y
+%gráfico posição do cog e cop em cada condição, em cada dia
+%medidas de correlação de cog e cop, em cada condição  em cada dia
+%gráficos estatokinesiograma e estabilograma do cog e cop, em cada condição, em cada dia
