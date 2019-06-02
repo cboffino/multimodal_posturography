@@ -61,4 +61,6 @@ tado como uma série temporal, três padrões podem ser identificados: Shifting 
 #graphes, real data, on the base, statokinesiogram and stabilogram
 #named compared groups
 #estatística
-#estatística, média, SP, grupo, p, gráficos, correlação, anova, big data, multiprofissional 
+#estatística, média, SP, grupo, p, gráficos, correlação, anova, big data, multiprofissional
+
+//Reference: Marcos Duarte, Sandra M. S. F. Freitas. Revisão sobre posturografia baseada em plataforma de força para avaliação do equilíbrio. Rev Bras Fisioter, São Carlos, v. 14, n. 3, p. 183-92, maio/jun. 2010. ISSN 1413-3555
